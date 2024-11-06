@@ -1,6 +1,7 @@
 # Brute-Force Email Script
 
-This script attempts to brute-force an email account's password using a list of passwords provided in a file named `Passwords.txt`. It supports Gmail and Live/Hotmail email providers.
+This script attempts to brute-force an email account's password using a list of passwords provided in a file named `Passwords.txt`. It supports Gmail and Live/Hotmail email providers. <br>
+[Use this repo to get a dictionary](https://github.com/kennyn510/wpa2-wordlists/tree/master)
 
 ## Features
 
