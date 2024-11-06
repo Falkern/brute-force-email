@@ -31,10 +31,6 @@ This script attempts to brute-force an email account's password using a list of 
 - Unauthorized access to email accounts is illegal and unethical.
 - Use this script responsibly and only on accounts you own or have explicit permission to test.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Disclaimer
 
 The author is not responsible for any misuse of this script. Use it at your own risk.
